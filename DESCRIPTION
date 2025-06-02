@@ -13,7 +13,7 @@ Imports:
     purrr,
     dplyr,
     reshape2,
-    rxode2 (>= 3.0.4),
+    rxode2,
     tidyr,
     rlist,
     parallel,
